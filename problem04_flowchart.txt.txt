@@ -1,0 +1,7 @@
+flowchart TD 
+   A([Start]) --> A[/Enter score for game 1/] 
+   B --> B[/Enter score for game 2/] 
+   C --> C[/Enter score for game 3/]  
+   E --> E[Compute average ← (s1+s2+s3+)
+   F --> F[Display "Average score: ", average] 
+   G --> G([End]) 

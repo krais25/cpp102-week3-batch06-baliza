@@ -1,0 +1,7 @@
+step1:Start 
+step2:Ask for midterm exam score 
+step3:Ask for final exam score 
+step4:Ask for project score 
+step5:Compute average = (midterm + final + project) \ 3 
+step6:Display average grade 
+step7:end

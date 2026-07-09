@@ -1,0 +1,7 @@
+step1:Start 
+step2:Ask for unit price and quantity of item 1 
+step3:Ask for unit price and quantity of item 2 
+step4:Ask for unit price and quantity of item 3 
+step5:Compute total = (price1 × qty1) + (price2 × qty2) + (price3 × qty3) 
+step6:Display total purchase result 
+step7:End 

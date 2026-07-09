@@ -1,0 +1,10 @@
+START 
+   INPUT Enter room number 
+   READ room_number 
+ 
+   IF room_number MOD 2 = 0 THEN 
+       DISPLAY "Even" 
+   ELSE 
+       DISPLAY "Odd" 
+   ENDIF 
+END 

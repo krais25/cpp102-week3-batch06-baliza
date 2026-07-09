@@ -1,0 +1,7 @@
+Determine how many boxes and number of items per box
+Start
+INPUT number of boxes
+INPUT number of items per box
+PROCESS sum = number of boxes + items per box
+DISPLAY sum
+END

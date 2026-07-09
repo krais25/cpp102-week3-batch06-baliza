@@ -1,0 +1,7 @@
+flowchart TD 
+   A([Start]) --> B[/Enter number of boxes/] 
+   B --> C[/Enter items per box/] 
+   C --> D[Compute total = boxes * items_per_box] 
+   D --> E[Display total] 
+   E --> F([End]) 
+ 

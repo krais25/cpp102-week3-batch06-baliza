@@ -1,0 +1,14 @@
+START
+  INPUT hourly rate
+  READ rate
+
+  INPUT number of hours worked
+  READ hours worked
+
+  INPUT the project bonus
+  READ project bonus
+  
+ PROCESS compute total = (hourly rate) + ( num of hours worked) + (project bonus) 
+
+ DISPLAY  result
+END 

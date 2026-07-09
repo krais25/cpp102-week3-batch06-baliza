@@ -1,0 +1,9 @@
+START
+  INPUT 3 game scores
+  
+  INPUT score1 + score2 + score3
+
+ PROCESS sum(average) =(score1 + score2 + score3) /3
+
+ DISPLAY result 
+END

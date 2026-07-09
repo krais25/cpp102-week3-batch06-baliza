@@ -1,0 +1,8 @@
+Determine the radius of a circular garden
+START
+  INPUT circumference using pi
+
+  INPUT pi as 3.141
+
+  DISPLAY result
+END

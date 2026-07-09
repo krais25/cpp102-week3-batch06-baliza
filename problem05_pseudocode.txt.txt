@@ -1,0 +1,21 @@
+START
+  INPUT "unit price of item 1"
+  READ price 1
+  INPUT quantity of unit 1
+  READ quantity 1
+
+  INPUT unit price of item 2
+  READ price 2
+  INPUT quantity of unit 2
+  READ quantity 2
+
+ 
+  INPUT unit price of item 3
+  READ price 3
+  INPUT quantity of unit 3
+  READ quantity 3
+
+ PROCESS sum= (price1 * qty1) + (price2 * qty2) + (price3 * qty3) 
+
+ DISPLAY  result
+END 

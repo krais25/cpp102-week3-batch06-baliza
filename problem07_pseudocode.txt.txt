@@ -1,0 +1,15 @@
+START
+  INPUT midterm exam score
+  READ midterm
+
+  INPUT final exam score
+  READ finals
+
+  INPUT course output
+  READ project
+
+  
+ PROCESS Compute average = (midterm + final + project) \ 3 
+
+ DISPLAY  result
+END 

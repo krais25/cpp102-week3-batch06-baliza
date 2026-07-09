@@ -1,0 +1,13 @@
+BEGIN 
+   INPUT Enter stock price change 
+   READ change 
+ 
+   IF change > 0 THEN 
+       DISPLAY "Gain" 
+   ELSE IF change < 0 THEN 
+       DISPLAY "Loss" 
+   ELSE 
+       DISPLAY "Unchanged" 
+   ENDIF 
+END 
+ 

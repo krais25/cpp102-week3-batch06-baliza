@@ -1,0 +1,6 @@
+step1: START.
+step2: ask the rate per day.
+step3: ask the number of days subscribed.
+step4: compute the sum= rate per day+ number of days subcribed.
+step5:display result.
+step6:END.

@@ -1,0 +1,13 @@
+START 
+  INPUT number of violation
+  READ violation
+ 
+  If violations ≤ 2 
+   Display “Cleared”
+
+ELSE 
+
+   DISPLAY "Not Cleared" 
+  ENDIF 
+END 
+ 

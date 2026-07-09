@@ -1,0 +1,9 @@
+START
+  INPUT daily rate
+  
+  INPUT number of days subcribed
+
+  PROCESS  sum = number of boxes + items per box
+
+  DISPLAY result
+END 

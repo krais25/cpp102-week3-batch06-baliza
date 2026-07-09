@@ -1,0 +1,6 @@
+step1: start.
+step2: ask the number of boxes
+step3: ask the number of items per box
+step4: compute the sum = the total number of items + items per box
+step5:display result
+step6:end

@@ -1,0 +1,7 @@
+step1:Start 
+step2:Ask for the hourly rate 
+step3:Ask for number of hours worked
+step4:Ask for the project bonus
+step5:Compute total = (hourly rate) + ( num of hours worked) + (project bonus) 
+step6:Display the total result 
+step7:End 

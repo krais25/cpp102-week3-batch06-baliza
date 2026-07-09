@@ -1,0 +1,7 @@
+flowchart TD 
+   A([Start]) --> B[/Enter daily rate/] 
+   B --> C[/Enter number of days/] 
+   C --> D[Compute total_cost = rate * days] 
+   D --> E[Display total_cost] 
+   E --> F([End]) 
+ 

@@ -1,0 +1,7 @@
+step 1: START
+step 2: ask for the radius of the circular garden
+step 3: computes the circumference using the value of pi
+step 4: store pi = 3.1416
+step 5: display sum
+step 6: END
+
